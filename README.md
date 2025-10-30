@@ -10,8 +10,7 @@ Read the instructions for each cell and provide your answers. Make sure to test 
 
 ## Deliverables
 
-- Downloaded files with your responses to each of the exercises.
-
+- Add files with your responses to each of the exercises.
 
 ## Submission
 

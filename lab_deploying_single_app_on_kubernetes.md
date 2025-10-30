@@ -308,6 +308,29 @@ docker rmi my-java-app:1.0
 docker rmi <your-dockerhub-username>/my-java-app:1.0
 ```
 
+## **Deliverables**
+
+* Submit the following files:
+
+  * `HelloController.java` — your Java application source code.
+  * `Dockerfile` — used to build your Java app image.
+  * `deployment.yaml` — Kubernetes Deployment manifest.
+  * `service.yaml` — Kubernetes Service manifest.
+
+* Provide **screenshots** or terminal output showing:
+
+  * Successful creation of the Docker image (`docker build` and `docker run`).
+  * Running Kubernetes Deployment and Service (`kubectl get deployments`, `kubectl get pods`, `kubectl get svc`).
+  * Browser or `curl` output displaying:
+
+    ```
+    Hello, Kubernetes!
+    ```
+
+## **Submission**
+
+Upon completion, add your deliverables to git. Then commit git and push your branch to the remote. Make a pull request and paste the PR link in the submission field in the Student Portal.
+
 ## Summary
 
 In this lab, you:
